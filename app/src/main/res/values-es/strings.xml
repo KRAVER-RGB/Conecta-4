@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Conecta 4</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="impossible_movement_title">Movimiento imposible</string>
+    <string name="impossible_movement_message">La casilla está ocupada</string>
+    <string name="ok">OK</string>
+
+    <string name="new_game">Nueva Partida</string>
+
+    <string name="more_info_app">Más Información</string>
+    <string name="more_info_message">Aplicación desarrollada por Luis Fernando Jimenez de Jesús</string>
+
+    <string name="player1_txt">Jugador 1</string>
+    <string name="player2_txt">Jugador 2</string>
+
+    <string name="nick_name">Nombre de Usuario</string>
+    <string name="play_txt">Jugar</string>
+    <string name="cancel_txt">Cancelar</string>
+
+    <string name="nickname_are_required_msg">Los apodos de usuario son requeridos</string>
+    <string name="nickname_length_msg">El nickname debe tener a lo mucho 9 caracteres</string>
+
+    <string name="txt_on_turn">EN TURNO</string>
+
+
+    <string name="txt_restart_game">Reiniciar partida</string>
+    <string name="txt_restart_counter">Reiniciar contador de partidas y victorias </string>
+
+    <string name="option_return_to_main_menu">Regresar al menú principal</string>
+    <string name="option_cancel">Cancelar</string>
+    <string name="txt_return_to_menu">Se perderá el progreso de la partida si regresas al menú principal</string>
+
+
+</resources>
